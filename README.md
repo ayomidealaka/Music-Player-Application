@@ -2,7 +2,12 @@
 Music Player Application with playlist built with Java. (GUI)
 
 # BlastBox - Java
-###  Functions
+  Repo contains
+- BlastBox.java: Contains Source code.  
+- design.css: Contains design for application.
+- headphones.png: Application Icon.
+
+###  Features
 - Add .mp3 songs from local directory or load a directory on application.
 - Add, Remove songs from playlist.
 - Use music slider to rewind or fast-forward music time.
