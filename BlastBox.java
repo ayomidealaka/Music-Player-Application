@@ -3,10 +3,6 @@
  */
 
 //Ayomide Alaka-Yusuf
-//2992254
-
-
-package HGIAssignment2;
 
 import javafx.scene.media.MediaPlayer.Status;
 import java.io.File;
